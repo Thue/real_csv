@@ -1,0 +1,1 @@
+See http://thuejk.blogspot.dk/2010/01/phps-implementation-of-fgetcsv-and.html
