@@ -1,4 +1,6 @@
-class csv {
+<?php
+
+class real_csv {
 
   private static function error($error, $str, $m, $offset, $moving_offset, $csv_line) {
     if ($error === "unexpected quote in unquoted field") {
